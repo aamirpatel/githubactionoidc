@@ -1,4 +1,4 @@
-name: Create AWS VPC
+name: Create s3 bucket
 
 on:
   push:
